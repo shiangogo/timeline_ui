@@ -42,7 +42,7 @@ main {
   border-radius: 16px;
   position: absolute;
   left: 50%;
-  overflow: hidden;
+  overflow: scroll;
   padding: 16px;
   transition: 400ms ease;
 }
